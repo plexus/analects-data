@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Martin\桌面"
+   sodipodi:docname="drawing.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="199.71072"
+     inkscape:cy="159.55211"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="300px"
+     height="300px"
+     inkscape:window-width="742"
+     inkscape:window-height="577"
+     inkscape:window-x="50"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 32.470417,277.56503 C 32.470417,272.37012 38.858838,255.42237 46.666915,239.9033 C 58.795806,215.79646 61.256778,205.97611 63.563991,172.47714 C 65.233517,148.23687 64.416156,122.30933 61.423099,104.56446 C 58.187336,85.380534 57.895674,72.405434 60.543722,65.44055 C 66.957812,48.570221 88.703238,29.68755 105.29059,26.584541 C 113.64598,25.021493 122.66084,20.806723 125.32358,17.218392 C 129.20109,11.993079 131.19782,11.712899 135.35283,15.811116 C 138.55319,18.96773 152.0395,20.928081 170.55526,20.928081 C 207.42409,20.928081 226.02897,28.135174 235.76913,46.19042 C 241.95419,57.655574 243.13477,70.206098 243.21222,125.31416 C 243.30584,191.93136 245.10398,202.78877 262.28658,240.48692 C 270.11546,257.66331 269.0714,270.63595 259.86012,270.63595 C 251.09431,270.63595 242.62737,257.27458 232.62265,227.65346 C 224.00429,202.13704 222.88006,191.00489 222.35858,126.01799 C 222.02307,84.203826 220.04408,51.308604 217.72446,48.989002 C 215.4978,46.762312 199.61528,43.877068 182.42997,42.577347 C 156.14985,40.589787 151.18398,41.204339 151.18398,46.4442 C 151.18398,49.870688 153.94714,54.967396 157.32434,57.77022 C 172.34255,70.234245 158.25972,126.0729 130.69484,163.35635 C 124.52014,171.70808 122.34093,179.74888 123.26628,190.76583 C 124.96409,210.97944 134.73843,217.74951 149.92247,209.2289 C 159.27227,203.98221 161.60527,198.72754 165.89899,173.24481 C 171.02917,142.79745 176.92997,130.11022 192.86563,115.26389 C 202.83933,105.97196 216.70303,104.07463 216.64138,112.01005 C 216.61957,114.82438 210.27625,125.08367 202.54521,134.80848 C 193.11906,146.66551 186.97122,160.15009 183.88196,175.74418 C 176.97938,210.58711 176.30022,212.13133 162.93184,223.3801 C 145.84397,237.7586 127.5578,237.74713 115.63886,219.53529 C 102.16177,198.94267 99.100369,194.26543 123.73762,145.78202 C 132.89043,127.7703 141.88912,109.83476 143.73475,105.92524 C 151.31776,89.862363 147.475,66.511022 134.97876,52.717845 L 122.86708,39.349152 L 107.34716,48.061194 C 83.947564,61.196414 81.333125,69.349178 83.564534,122.22274 C 87.141329,206.97343 64.927402,287.01025 37.82837,287.01025 C 34.881486,287.01025 32.470417,282.75989 32.470417,277.56503 z "
+       id="path2186"
+       sodipodi:nodetypes="csssssssssssssssssssssssssssssscccssc" />
+  </g>
+</svg>

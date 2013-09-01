@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/yug/Desktop"
+   sodipodi:docname="士-oracle.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-181.61454"
+     inkscape:cy="152.93507"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="300px"
+     height="300px"
+     inkscape:window-width="1280"
+     inkscape:window-height="732"
+     inkscape:window-x="4"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M -173.41017,265.93192 C -182.81322,260.378 -184.33598,247.93654 -175.7397,246.89916 C -172.53659,246.51264 -160.48129,245.9885 -148.95012,245.73439 L -127.98436,245.27245 L -126.65961,200.57071 C -125.93102,175.98477 -125.43124,145.25096 -128.01828,138.4465 C -132.3984,126.92601 -136.69466,131.12556 -163.11827,131.12556 C -191.32331,131.12556 -209.51786,125.58044 -209.51786,116.98448 C -209.51786,114.42582 -191.22719,112.48933 -167.06057,112.48933 L -124.60333,112.48933 L -126.96622,81.040702 C -128.26582,63.743953 -130.77845,45.123614 -132.54982,39.662221 C -134.85978,32.540247 -132.77439,26.940992 -125.17509,19.861231 C -119.34764,14.432078 -113.14853,9.9900865 -111.39933,9.9900865 C -109.65014,9.9900865 -106.73403,30.935062 -104.91914,56.534436 C -103.06908,82.629952 -99.302788,104.51046 -96.346618,106.33751 C -93.446638,108.12976 -77.364738,110.34654 -60.609038,111.26367 C -22.637818,113.34199 -15.080968,115.59646 -22.205278,122.72076 C -25.102048,125.61753 -44.342408,128.96422 -64.961578,130.15787 L -102.45101,132.32811 L -102.60177,156.18686 C -103.01583,221.69539 -102.51796,239.67851 -100.22673,241.96969 C -98.852168,243.34425 -82.521288,246.7463 -63.935838,249.52976 C -39.254068,253.2262 -30.144168,256.47464 -30.144168,261.57915 C -30.144168,267.41979 -41.240928,268.74678 -97.700488,269.65772 C -137.90461,270.3064 -168.55795,268.79794 -173.41017,265.93192 z "
+       id="path2483"
+       sodipodi:nodetypes="cscccssscccssssssscccssssc" />
+    <path
+       style="fill:#000000"
+       d="M 92.079834,282.06133 C 46.659874,239.48749 107.8812,255.09146 137.4254,258.46721 C 137.94222,224.87422 141.20736,177.72395 137.4254,144.32859 C 110.96954,137.3495 67.417812,149.3503 53.597829,123.28623 C 48.523033,113.71532 119.97334,117.56424 137.4254,117.53943 C 135.54733,50.750494 109.02675,34.157379 151.09027,15.709165 C 169.31676,6.7609513 161.64742,84.855137 163.83929,116.86267 C 191.32421,121.0768 255.48752,109.43012 245.64193,124.0837 C 230.12114,147.1839 177.05369,139.49615 163.83929,140.2924 C 163.87547,175.98405 161.69994,223.81271 163.83929,259.45426 C 200.15531,267.49442 223.01801,260.61966 234.63523,269.15507 C 264.67411,291.22529 94.796719,284.60797 92.079834,282.06133 z "
+       id="path2177"
+       sodipodi:nodetypes="cccscccsccss" />
+  </g>
+</svg>

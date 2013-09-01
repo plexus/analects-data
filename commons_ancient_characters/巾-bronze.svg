@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2210"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="300"
+   height="300"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Martin\桌面"
+   sodipodi:docname="巾-bronze.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2215">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2213" />
+  <sodipodi:namedview
+     inkscape:window-height="577"
+     inkscape:window-width="742"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="300px"
+     height="300px"
+     inkscape:zoom="0.80555556"
+     inkscape:cx="122.83765"
+     inkscape:cy="182.57671"
+     inkscape:window-x="50"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2210" />
+  <path
+     style="fill:#000000"
+     d="M 141.11793,209.33917 L 137.41422,138.57363 L 123.2915,140.392 C 91.043145,144.54412 87.397818,150.96922 86.513154,205.21599 C 85.891266,243.34995 83.596041,258.11873 78.001716,259.98351 C 71.069573,262.29422 68.770971,248.7466 68.829301,205.92266 C 68.862041,181.88857 69.839584,157.23173 71.00161,151.12969 C 73.411441,138.47528 79.769116,134.38358 116.10293,122.10315 L 136.90535,115.07216 L 136.90535,67.986767 C 136.90535,26.013257 137.4138,20.800334 141.58871,19.970667 C 144.16456,19.458774 148.84158,21.60945 151.98207,24.749951 C 156.7835,29.551377 157.63239,33.66092 157.31698,50.576803 C 157.11068,61.641075 157.1142,79.086592 157.32482,89.34461 C 157.68794,107.03002 158.1314,108.21463 165.89099,112.22727 C 170.39177,114.55471 177.68128,116.45899 182.08992,116.45899 C 186.49854,116.45899 197.71643,120.26216 207.01853,124.91047 C 226.19342,134.49227 229.37141,140.38683 229.379,166.3848 C 229.38146,174.77511 229.98573,198.10428 230.72184,218.22741 C 231.69975,244.96081 231.12522,256.0936 228.58864,259.56259 C 223.49528,266.52815 218.7282,261.87326 218.7282,249.9342 C 218.7282,244.19908 216.9736,233.35148 214.8291,225.82841 C 212.68458,218.30535 210.10048,200.68005 209.08664,186.66107 C 206.50916,151.02076 204.94073,146.6332 192.18753,139.38728 C 181.30529,133.20436 164.86167,131.03112 162.15073,135.41752 C 161.36327,136.69165 159.95845,165.71103 159.0289,199.90503 C 157.3488,261.70859 154.8823,280.1047 148.27594,280.1047 C 145.70635,280.1047 143.87305,261.98038 141.11793,209.33917 z "
+     id="path2219" />
+</svg>
