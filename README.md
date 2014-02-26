@@ -69,4 +69,4 @@ an accompanying notice indicating the source.
 
 ## HSK lists
 
-For the classic HSK, taken from [Wiktionary](http://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words) (CC-Attr-SA), for the "New HSK" taken from [this page](http://lingomi.com/blog/hsk-lists-2010/) (CC-BY-SA)
+For the classic HSK, taken from [Wiktionary](http://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words) 
