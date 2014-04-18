@@ -67,6 +67,20 @@ these files and used in documentation or programs, as long as there is
 an accompanying notice indicating the source.
 ```
 
+## [Taiwan School Hanzi Curriculum]( http://residence.educities.edu.tw/wei3128/currinstruc/wordclause/generwordgrd9.htm)
+
+All characters taught in Taiwanese schools, grouped in 9 levels, 5586 in total.
+
+Found through [StackExchange Chinese](http://chinese.stackexchange.com/questions/6200/table-of-chinese-characters-taught-in-primary-school-grouped-by-grade?atw=1).
+
 ## HSK lists
 
-For the classic HSK, taken from [Wiktionary](http://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words) 
+For the classic HSK, taken from [Wiktionary](http://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words)
+
+## Other potential sources
+
+* Various frequency lists
+** [The most common Chinese characters in order of frequency](http://www.zein.se/patrick/3000char.html)
+** [Frequency of Chinese characters on the Internet](http://corpus.leeds.ac.uk/frqc/i-zh-char.num) (corpus: [A collection of Chinese corpora and frequency lists](http://corpus.leeds.ac.uk/query-zh.html))
+** [Frequency and Stroke Counts of Chinese Characters](http://technology.chtsai.org/charfreq/)
+** [Modern Chinese Character Frequency List](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
