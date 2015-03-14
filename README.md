@@ -77,6 +77,10 @@ Found through [StackExchange Chinese](http://chinese.stackexchange.com/questions
 
 For the classic HSK, taken from [Wiktionary](http://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words)
 
+## New HSK
+
+These lists originated from [Lingomi](http://lingomi.com/blog/hsk-lists-2010/), they are licensed [CC-by-SA](http://creativecommons.org/licenses/by/3.0/).
+
 ## Other potential sources
 
 * Various frequency lists
@@ -84,3 +88,5 @@ For the classic HSK, taken from [Wiktionary](http://en.wiktionary.org/wiki/Appen
 ** [Frequency of Chinese characters on the Internet](http://corpus.leeds.ac.uk/frqc/i-zh-char.num) (corpus: [A collection of Chinese corpora and frequency lists](http://corpus.leeds.ac.uk/query-zh.html))
 ** [Frequency and Stroke Counts of Chinese Characters](http://technology.chtsai.org/charfreq/)
 ** [Modern Chinese Character Frequency List](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
+** [808 "universal" CJK characters](http://www.theworldofchinese.com/2014/04/808-ways-to-write-chinese-korean-and-japanese/)
+* Wikipedia info on radicals, e.g. [Radical 59](http://en.wikipedia.org/w/index.php?title=Radical_59)
