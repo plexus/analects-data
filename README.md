@@ -90,3 +90,4 @@ These lists originated from [Lingomi](http://lingomi.com/blog/hsk-lists-2010/), 
 ** [Modern Chinese Character Frequency List](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
 ** [808 "universal" CJK characters](http://www.theworldofchinese.com/2014/04/808-ways-to-write-chinese-korean-and-japanese/)
 * Wikipedia info on radicals, e.g. [Radical 59](http://en.wikipedia.org/w/index.php?title=Radical_59)
+* [Dictionaries released as CC by the Taiwanese government](http://resources.publicense.moe.edu.tw/)
